@@ -21,7 +21,25 @@ body {
 }
 
 .pageTwo {
-	background: url("https://images.pexels.com/photos/32237/pexels-photo.jpg?h=350&auto=compress&cs=tinysrgb");
+	background: url("../images/About.jpg");
 	background-size: cover;
 	height: 800px;
+}
+
+.raleway {
+	font-family: raleway, serif;
+}
+
+.lobster {
+	font-family: lobster, cursive;
+}
+
+#imgCode {
+	padding: 10% 10% 10% 10%;
+}
+
+#head {
+	font-size: 7vw;
+	padding-top: 10%;
+	padding-left: 10%
 }

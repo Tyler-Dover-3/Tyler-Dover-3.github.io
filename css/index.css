@@ -64,11 +64,6 @@ h1 {
 }
 /* Newly added */
 
-#head {
-	font-size: 7vw;
-	padding-top: 10%;
-	padding-left: 10%
-}
 
 p {
 	font-size: 2vw;
@@ -91,8 +86,4 @@ p {
 
 .lobster {
 	font-family: lobster, cursive;
-}
-
-#imgCode {
-	padding: 10% 10% 10% 10%;
 }

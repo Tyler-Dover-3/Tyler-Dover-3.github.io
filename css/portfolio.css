@@ -25,3 +25,11 @@ body {
 	background-size: cover;
 	height: 800px;
 }
+
+.raleway {
+	font-family: raleway, serif;
+}
+
+.lobster {
+	font-family: lobster, cursive;
+}
