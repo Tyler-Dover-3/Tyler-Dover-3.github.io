@@ -1,0 +1,27 @@
+html {
+	/*base font size*/
+   font-size: 12pt;
+}
+
+.navbar {
+	opacity: 0.9;
+	margin-bottom: 0;
+	text-align: center;
+	font-size: 2rem;
+}
+
+.navbar-brand {
+	font-size: 2rem;
+}
+
+body {
+	background-color: white;
+	font-family: Lobster, cursive;
+	color: white;
+}
+
+.pageTwo {
+	background: url("https://images.pexels.com/photos/32237/pexels-photo.jpg?h=350&auto=compress&cs=tinysrgb");
+	background-size: cover;
+	height: 800px;
+}
