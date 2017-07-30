@@ -15,7 +15,7 @@ html {
 }
 
 body {
-	background-color: white;
+	background-color: grey;
 	font-family: Lobster, cursive;
 	color: white;
 }
@@ -42,4 +42,10 @@ body {
 	font-size: 7vw;
 	padding-top: 10%;
 	padding-left: 10%
+}
+
+p {
+	font-size: 2vw;
+	padding-left: 10%;
+	padding-top: 3%;
 }
