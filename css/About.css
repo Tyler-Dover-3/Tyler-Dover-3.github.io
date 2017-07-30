@@ -21,7 +21,7 @@ body {
 }
 
 .pageTwo {
-	background: url("../images/About.jpg");
+	background: url("https://tyler-dover-3.github.io/images/About.jpg");
 	background-size: cover;
 	height: 800px;
 }
